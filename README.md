@@ -41,12 +41,25 @@ In system are two dashboard, the first is for admins and cooker to mange recipes
 - GET /home/recipe - Returns recipes with the specified id.
 - GET /home/categories - Returns a list of categories.
 
-# Dashboard to manage recipes
+# Dashboard for admins and cookers
+
+**Login Form**
+
 ![Zrzut ekranu 2024-03-20 o 12 45 52](https://github.com/KacperC948/CMS/assets/59024079/b2ccb481-7bbe-40d5-b69a-2c9ec23e1297)
+
+**User management view**
+
 ![Zrzut ekranu 2024-03-20 o 12 46 23](https://github.com/KacperC948/CMS/assets/59024079/9e63504c-ee3c-4556-822d-8159443d6c51)
+
+**Category management view**
+
 ![Zrzut ekranu 2024-03-20 o 12 47 32](https://github.com/KacperC948/CMS/assets/59024079/1dc88d98-ed12-4da7-96e2-3b1cad5d888b)
+
+**Recipe management view**
+
 ![Zrzut ekranu 2024-03-20 o 12 57 50](https://github.com/KacperC948/CMS/assets/59024079/a38b5b55-7d4e-428a-94e9-ddf7d6fafefa)
 
 # Public dashboard for user for browse recipes
 ![Zrzut ekranu 2024-03-20 o 12 58 39](https://github.com/KacperC948/CMS/assets/59024079/f0f9043b-ad43-47d4-a285-9253d999a6f2)
+
 ![Zrzut ekranu 2024-03-20 o 12 58 52](https://github.com/KacperC948/CMS/assets/59024079/cb1de8c9-30e5-44d8-88d1-2fd5a6c7f165)
